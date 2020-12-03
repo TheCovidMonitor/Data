@@ -8,3 +8,6 @@ Enrollment data for Texas does not appear to be accurate for a large share of th
 
 Note on enrollment data for Florida (11/25/20):
 Florida enrollment totals and face-to-face totals were obtained directly from the school districts, either provided on their website or through public records request. These documents can be obtained by emailing us at: plans@thecovidmonitor.com
+
+Note on case data for New Jersey (12/2/20):
+New Jersey has among the most severe restrictions as to what the state will report as a "school case." See their website for more details. 
