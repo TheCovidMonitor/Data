@@ -5,6 +5,8 @@ ArcGIS data (snapshot of most recent data) can be accessed through our open data
 
 Note on enrollment data for Texas (11/25/20):
 Enrollment data for Texas does not appear to be accurate for a large share of the districts they are reporting for. We contacted several districts with asrtonomically high case rates about the enrollment data provided by the state for their school. Frisco county, in particular, noted the inaccuracies of the enrollment data, showing 10x as many students enrolled face-to-face compared to the state report.
+Update on Texas enrollment data (12/3/20): 
+Texas has corrected previous errors in the number of students enrolled in face-to-face instruciton to match district reporting. Issues appear resolved. 
 
 Note on enrollment data for Florida (11/25/20):
 Florida enrollment totals and face-to-face totals were obtained directly from the school districts, either provided on their website or through public records request. These documents can be obtained by emailing us at: plans@thecovidmonitor.com
